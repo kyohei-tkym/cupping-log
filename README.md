@@ -26,8 +26,10 @@ Cupping(カッピング)とはバリスタやロースターが行うコーヒ�
 - 友達と記録をシェアする時
 
 ## 設計書
+- WBS（スケジュール管理）：https://docs.google.com/spreadsheets/d/1lk1xc6MTge2Afz15zFbxBHxkApwgE2YCv958pdZdkjM/edit?usp=sharing
 - UI-flow：https://drive.google.com/file/d/1CoQvVL_lc4PbMK69korxItIEIZoZckds/view?usp=sharing
 - ER図：https://drive.google.com/file/d/1dSR05IDQcY2RfG0ZOju4R17goMbLcJ9p/view?usp=sharing
+- 詳細設計：https://docs.google.com/spreadsheets/d/1sbM0iCHtRm7Yq1aQMBYy0MSZQx7Apfa_UVmz32VFCsk/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
